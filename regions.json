@@ -1,0 +1,17 @@
+{
+    "regions": {
+        "Auvergne-Rhône-Alpes": [67, 68],
+        "Bourgogne-Franche-Comté": [40, 47, 33, 24, 64],
+        "Bretagne": [43, 3, 15, 63],
+        "Centre-Val de Loire": [14, 61, 50],
+        "Corse": [21, 58, 71, 89],
+        "Grand-Est": [29, 35, 22, 56],
+        "Hauts-de-France": [45, 37, 41, 28, 36, 18],
+        "Ile-de-France": [10, 8, 52, 51],
+        "Normandie": ["2b", "2a"],
+        "Nouvelle Aquitaine": [39, 25, 70, 90],
+        "Occitanie": [27, 76],
+        "Pays de la Loire": [48, 30, 34, 11, 66],
+        "Provence-Alpes-Côte d'Azur": [19, 23, 87]
+    }
+}
